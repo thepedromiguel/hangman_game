@@ -1,6 +1,6 @@
 # hangman_game
 
-# 29/12/2022 - 07/01/2023 #
+## 29/12/2022 - 07/01/2023 ##
 
 I decided to create a multiplayer of Hangman that is playable, as well as simulated.
 The difference is that, in the playable version, the players can guess the letters, while in the simulated version, the letters are guessed automatically.
